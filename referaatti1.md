@@ -16,7 +16,6 @@ enenevissä määrin niin sanottuja inkrementaarisia ja iteratiivisia menetelmi�
 Alkaneella vuosituhannella ohjelmistotuotannossa alaa ovat vallanneet niin sanotut ketterät tuotantomenetelmät, jotka painottavat esimerkiksi tuotantotiimin yksilöllisyyttä ja läpi tuotannon kestävää kommunikaatiota tuotteen tilanneen asiakkaan kanssa, ja annetaan pienempi arvo suunnitelmallisuudelle ja kattavalle dokumentaatiolle.
 
 
-
 ## Lähteet:
 
 * Suomalainen, Lauri. 2014. _Ohjelmistotuotantomenetelmien kehittyminen 1950-
